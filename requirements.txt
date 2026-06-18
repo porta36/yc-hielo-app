@@ -1,0 +1,6 @@
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.2
+PyQt6-sip==13.1.0
+Pillow==11.0.0
+qrcode==7.4.2
+reportlab==4.1.1
